@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/util-exif-extract/service"
+	"github.com/RaeedAsif/util-exif-extract/service"
 )
 
 func ViewResultHandler(w http.ResponseWriter, r *http.Request, filename string) {

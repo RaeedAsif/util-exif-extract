@@ -1,4 +1,4 @@
-module github.com/util-exif-extract
+module github.com/RaeedAsif/util-exif-extract
 
 go 1.20
 

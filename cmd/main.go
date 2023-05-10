@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/util-exif-extract/route"
-	"github.com/util-exif-extract/service"
+	"github.com/RaeedAsif/util-exif-extract/route"
+	"github.com/RaeedAsif/util-exif-extract/service"
 )
 
 var (

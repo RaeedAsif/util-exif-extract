@@ -3,7 +3,7 @@ package route
 import (
 	"net/http"
 
-	"github.com/util-exif-extract/handler"
+	"github.com/RaeedAsif/util-exif-extract/handler"
 )
 
 func InitRoutes(filename string) {
