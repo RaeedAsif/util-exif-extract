@@ -1,0 +1,4 @@
+path,error
+images/exif-error.jpg,unexpected EOF
+images/more_images/david.gif,no exif data
+images/rock.jpg,no exif data
